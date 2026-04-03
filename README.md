@@ -1,2 +1,5 @@
-# CAD-Practice
-A repository where I can dump and show off all of my CAD word done in Fusion/FreeCAD
+# CAD Practice
+This is a repository where I put all of my CAD work (in the orignal CAD design software file and STEP export), from practice work and design work I've used in my projects/other repositories.
+
+## Solidworks Excercies
+
