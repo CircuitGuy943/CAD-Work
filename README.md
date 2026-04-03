@@ -10,11 +10,17 @@ Some CAD excercise done in solidworks following design sheets from a CAD practic
 ## Cinder Filament Dryer
 CAD models and assemblies for my 90W filament dryer: https://github.com/CircuitGuy943/CinderV2-Filament-Dryer
 
+<img src="Cinder Filament Dryer/Pictures/final1.png" alt="Picture 1" width="200"/> <img src="Cinder Filament Dryer/Pictures/final2.png" alt="Picture 3" width="200"/> <img src="Cinder Filament Dryer/Pictures/final3.png" alt="Picture 3" width="200"/> <img src="Cinder Filament Dryer/Pictures/final4.png" alt="Picture 4" width="200"/> <img src="Cinder Filament Dryer/Pictures/final5.png" alt="Picture 5" width="200"/> <img src="Cinder Filament Dryer/Pictures/final6.png" alt="Picture 6" width="200"/> <img src="Cinder Filament Dryer/Pictures/final7.png" alt="Picture 7" width="200"/> 
+
 ## Ender 3 Contender Shroud
 CAD models and assembly for my print head shroud meant to precede the old "juggernaut" model to achieve better airflow dynamics: https://github.com/CircuitGuy943/Ender-3-V2-Contender-Shroud
 
+<img src="Ender 3 Contender Shroud/Pictures/final1.png" alt="Picture 1" width="200"/> <img src="Ender 3 Contender Shroud/Pictures/final2.png" alt="Picture 3" width="200"/> <img src="Ender 3 Contender Shroud/Pictures/final3.png" alt="Picture 3" width="200"/> <img src="Ender 3 Contender Shroud/Pictures/final4.jpg" alt="Picture 4" width="200"/>
+
 ## Ender 3 Juggernaut Shroud
 My first print head shroud for the Ender 3, preceded by the Contender due to it's poor design and airflow circulation: https://github.com/CircuitGuy943/Ender-3-V2-Juggernaut-Shroud
+
+<img src="Ender 3 Juggernaut Shroud/Pictures/final1.png" alt="Picture 1" width="200"/> <img src="Ender 3 Juggernaut Shroud/Pictures/final2.png" alt="Picture 3" width="200"/> <img src="Ender 3 Juggernaut Shroud/Pictures/final3.png" alt="Picture 3" width="200"/> <img src="Ender 3 Juggernaut Shroud/Pictures/final4.jpg" alt="Picture 4" width="200"/> <img src="Ender 3 Juggernaut Shroud/Pictures/final5.jpg" alt="Picture 5" width="200"/> <img src="Ender 3 Juggernaut Shroud/Pictures/final6.jpg" alt="Picture 6" width="200"/>
 
 ## Klipper Console
 A console designed to attach with a USB C cable to the Raspberry Pi or other MCU running Klipper, send commands and manipulate the printer using the inputs: https://github.com/CircuitGuy943/The-Klipper-Console-V1
