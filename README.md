@@ -24,7 +24,7 @@ A CAD model of a small automated turntable using a bearing and an arduino uno to
 (Could update to have an IR distance sensor, one of the ones I bought for my drone, instead of the mechanical clip to judge distance of turning, will also be more accurate. Need to rewrite code as well though.
 
 ## Quadcopter
-One of my biggest projects yet, a custom made quadcopter, desigend and 3D printed from the top up utilising an also custom flightcontroller board with, you guessed it, custom firmware: https://github.com/CircuitGuy943/Quadcopter
+One of my biggest projects yet, a custom made quadcopter, designed and 3D printed from the top up utilising an also custom flightcontroller board with, you guessed it, custom firmware: https://github.com/CircuitGuy943/Quadcopter
 (Work there needs to be organised into the old/new designs. The new case design will probably be a separate fusion online file so that I can maintain the old design for easy viewing and separation once I overhaul the design)
 
 ## Recept
