@@ -5,7 +5,7 @@ This is a central repository where I put all of my CAD work (in the orignal CAD 
 
 Some CAD excercise done in solidworks following design sheets from a CAD practice book:
 
-<img src="Solidworks Excercises (Pirelli WEX)/PracticePart1.png" alt="Part 1" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart2.png" alt="Part 2" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart3.png" alt="Part 3" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart4.png" alt="Part 4" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart5.png" alt="Part 5" width="300"/>
+<img src="Solidworks Excercises (Pirelli WEX)/PracticePart1.png" alt="Part 1" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart2.png" alt="Part 2" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart3.png" alt="Part 3" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart4.png" alt="Part 4" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart5.png" alt="Part 5" width="300"/> <img src="Solidworks Excercises (Pirelli WEX)/PracticePart6.png" alt="Part 6" width="300"/>
 
 ## Cinder Filament Dryer
 CAD models and assemblies for my 90W filament dryer: https://github.com/CircuitGuy943/CinderV2-Filament-Dryer
